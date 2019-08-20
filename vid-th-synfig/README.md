@@ -9,7 +9,7 @@ META
 This README is written in the MarkDown formatting syntax.
 This file should also come with:
 An example synfig project: "vid-th-synfig.sifz".
-A screenshot image: "vid-th-synfig-scr.png".
+A screenshot image: "vid-th-synfig-scr.jpg".
 
 Introduction
 ------------
