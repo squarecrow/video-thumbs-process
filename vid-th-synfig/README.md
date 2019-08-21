@@ -80,8 +80,8 @@ A video duration indicator, scaled for 168x94 thumbnails.
 
 TODO
 ----
-Multiple thumbnail modes, besides just cutand uncut,
-probably not operazted through switch statements.
+Multiple thumbnail modes, besides just cut and uncut,
+probably not operated through Switch statements.
 
 
 The Method
