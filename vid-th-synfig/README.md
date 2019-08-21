@@ -126,14 +126,14 @@ Depending on the user's personal tastes, hardware, operating
 
 Under some conditions it may save a lot of time and confusion
  with batch image writing, under others it may just waste more
- time and add confusionn and frustration.
+ time and add confusion and frustration.
 
 Beginners should avoid using it on critical deadlines or
  projects.
 
 This is far from the only program out there that can be
  repurposed for this. There may be others that you will be
- more familiar or comfortable with. This is one the real
+ more familiar or comfortable with. This is one of the real
  points; finding new (sometimes strange) ways to render
  sequences of images with multiple forms of visual media
  in batch.
