@@ -87,13 +87,13 @@ probably not operated through Switch statements.
 The Method
 ----------
 Library
-  ValueBase Nodes
-    VOCut
-      Type: Boolean (On/Off)
-      A variable that other layer
-      properties can connect to,
-      meant for switching between
-      "cut" and "uncut" mode.
+  * ValueBase Nodes
+    * VOCut
+      * Type: Boolean (On/Off)
+        * A variable that other layer
+        * properties can connect to,
+        * meant for switching between
+        * "cut" and "uncut" mode.
 
 Layers
   Group
