@@ -96,26 +96,26 @@ Library
         * "cut" and "uncut" mode.
 
 Layers
-  Group
-    Layer1,Layer2, etc
-  Switch
-    LayerA,LayerB, etc
+  * Group
+    * Layer1,Layer2, etc
+  * Switch
+    * LayerA,LayerB, etc
 
 Parameters (Current layer)
-  Property A:
-    Gets value from this:
-      On
-      Off
-      Switch: Connected to VOCut.
-  Property B:
-    Gets value from this:
-      Rate: Increase by this number every frame.
+  * Property A:
+    * Gets value from this:
+      * On
+      * Off
+      * Switch: Connected to VOCut.
+  * Property B:
+    * Gets value from this:
+      * Rate: Increase by this number every frame.
     
 File
-  Render
-    Render sequence filename will be
-    numbered, but "cut" and "uncut"
-    must be added manually, for each.
+  * Render
+    * Render sequence filename will be
+      numbered, but "cut" and "uncut"
+      must be added manually, for each.
 
 
 Conclusion
