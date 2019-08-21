@@ -91,9 +91,9 @@ Library
     * VOCut
       * Type: Boolean (On/Off)
         * A variable that other layer
-        * properties can connect to,
-        * meant for switching between
-        * "cut" and "uncut" mode.
+          properties can connect to,
+          meant for switching between
+          "cut" and "uncut" mode.
 
 Layers
   * Group
