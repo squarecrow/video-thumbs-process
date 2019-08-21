@@ -1,8 +1,9 @@
 Synfig LP Thumbnail Template
+----------------------------
 
-Tested in
-Synfig 1.2.2 Windows 64 Portable (Wine 1.6.2)
-Synfig 1.2.2 Appimage (Linux Mint 17.2 [Ubuntu 14.04] 64bit)
+Tested in:
+* Synfig 1.2.2 Windows 64 Portable (Wine 1.6.2)
+* Synfig 1.2.2 Appimage (Linux Mint 17.2 [Ubuntu 14.04] 64bit)
 
 META
 ----
