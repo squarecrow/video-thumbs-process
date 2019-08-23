@@ -70,6 +70,8 @@ For example: "path/to/TheFontItBd.ttf"
 
 Example
 -------
+![example file vid-th-synfig.jpg](vid-th-synfig-scr.jpg?raw=true)
+
 The example file, that comes with this Read Me,
 contains the following visuals:
 
