@@ -8,7 +8,7 @@ Files:
     1. Started creation in Inkscape
     2. Finished by typing edits in text editor.
   * yt-th-timer.png
-    * Converted with Gnome Image Viewer
+    * Converted from SVG, with Gnome Image Viewer
     * Inaccurate conversions:
       ImageMagick (CLI):
         Text too thin
